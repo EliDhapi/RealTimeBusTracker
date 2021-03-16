@@ -14,9 +14,13 @@ This project uses javascript, CSS, HTML to connect to the MBTA, get the current 
 How to Run
 
 1.	Download the following 3 files from the masterbranch of this repository into a directory on your local machine:
+
 •	index.html
+
 •	mapanimation.js
+
 •	styles.css
+
 2.	Open index.html in your browser.
 
 
