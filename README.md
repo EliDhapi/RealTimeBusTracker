@@ -19,17 +19,20 @@ How to Run
 •	styles.css
 2.	Open index.html in your browser.
 
+
 Improvements made
 
 •	New map styling
 
 •	Changed wording on button
 
+
 Roadmap of future improvements
 
 •	Adding bus times and delays
 
 •	Providing alternative routes given other parameters (I need to go to the coffee shop in between these locations, etc)
+
 
 License information
 
