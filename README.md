@@ -19,12 +19,16 @@ General features:
 (2) Open index.html in your browser.
 
 <h2>Improvements made</h2>
-(1) New map styling
-(2)Changed wording on button
+<ul>
+ <li> New map styling
+ <li>Changed wording on button
+ </ul>
 
 <h2>Roadmap of future improvements</h2>
-(1)Adding bus times and delays
-(2)Providing alternative routes given other parameters (I need to go to the coffee shop in between these locations, etc)
+</ul>
+ <li>Adding bus times and delays
+ <li>Providing alternative routes given other parameters (I need to go to the coffee shop in between these locations, etc)
+ </ul>
 
 <h2>License</h2>
 This project is licensed under the MIT License
