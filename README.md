@@ -1,5 +1,3 @@
-# realTimeBusTracker
-
 <h2>Project Title</h2>
 Real Time Bus Tracker
 
